@@ -1,12 +1,12 @@
 {
     "name": "Canopy",
     "description": "Canopy is an innovative ad unit that earns you revenue with every impression.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "category":"monetization",
     "main" : "./public/javascripts/canopy.js",
 
     "account": {
-        "callback_url": "http://173.245.57.134:40420/api/partners/cloudflare/apps/canopy",
+        "callback_url": "http://127.0.0.1:40420/api/partners/cloudflare/apps/canopy",
         "user_fields": ["email"]
     },
 
